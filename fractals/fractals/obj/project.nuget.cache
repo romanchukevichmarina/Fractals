@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+M9621P0QPaPdE3BWSC+ASR1NyPHYv8vsOnCVSjFpZueOx4SwK/hpZvlS1a7jsPiG5K1I8dy5Ouw6c6jHoEhUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\fractals\\fractals\\fractals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\pixieditor.colorpicker\\3.1.0\\pixieditor.colorpicker.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
